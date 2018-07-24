@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5122e4c2-48ee-46cb-bac9-b84984055faf" name="Default" comment="" />
+    <list default="true" id="5122e4c2-48ee-46cb-bac9-b84984055faf" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/bulma.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/css/bulma.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/css/bulma.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/css/bulma.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/base/_all.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/base/generic.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/base/helpers.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/base/minireset.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/components/_all.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/components/breadcrumb.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/components/card.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/components/dropdown.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/components/level.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/components/media.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/components/menu.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/components/message.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/components/modal.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/components/navbar.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/components/pagination.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/components/panel.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/components/tabs.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/elements/_all.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/elements/box.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/elements/button.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/elements/container.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/elements/content.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/elements/form.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/elements/icon.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/elements/image.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/elements/notification.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/elements/other.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/elements/progress.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/elements/table.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/elements/tag.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/elements/title.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/grid/_all.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/grid/columns.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/grid/tiles.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/layout/_all.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/layout/footer.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/layout/hero.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/layout/section.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/utilities/_all.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/utilities/animations.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/utilities/controls.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/utilities/derived-variables.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/utilities/functions.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/utilities/initial-variables.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bulma/sass/utilities/mixins.sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" afterPath="$PROJECT_DIR$/public/js/app.js" />
+      <change beforePath="$PROJECT_DIR$/resources/assets/js/components/UserSettingsForm.vue" afterPath="$PROJECT_DIR$/resources/assets/js/components/UserSettingsForm.vue" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,47 +68,53 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/assets/sass/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="16003" lean-forward="true" selection-start-line="16003" selection-end-line="16003" />
+            <state relative-caret-position="1087">
+              <caret line="16003" column="0" lean-forward="false" selection-start-line="16003" selection-start-column="0" selection-end-line="16003" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserSettingsForm.vue" pinned="false" current-in-tab="false">
+      <file leaf-file-name="UserSettingsForm.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/assets/js/components/UserSettingsForm.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+            <state relative-caret-position="920">
+              <caret line="40" column="65" lean-forward="false" selection-start-line="40" selection-start-column="65" selection-end-line="40" selection-end-column="65" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/resources/assets/js/app.js" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
-        <option value="$PROJECT_DIR$/resources/assets/js/components/UserSettingsForm.vue" />
         <option value="$PROJECT_DIR$/resources/assets/sass/app.scss" />
+        <option value="$PROJECT_DIR$/resources/assets/js/components/UserSettingsForm.vue" />
       </list>
     </option>
   </component>
@@ -69,7 +134,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/vendor/phar-io/version" />
@@ -146,10 +211,11 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="397" />
-    <option name="y" value="22" />
-    <option name="width" value="778" />
-    <option name="height" value="699" />
+    <option name="y" value="23" />
+    <option name="width" value="2110" />
+    <option name="height" value="1402" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -215,6 +281,9 @@
       </list>
     </option>
   </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -226,36 +295,37 @@
       <option name="presentableId" value="Default" />
       <updated>1532377305631</updated>
       <workItem from="1532377307980" duration="1633000" />
+      <workItem from="1532413903364" duration="1182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1633000" />
+    <option name="totallyTimeSpent" value="2815000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="397" y="22" width="778" height="699" extended-state="0" />
+    <frame x="397" y="23" width="2110" height="1402" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info id="npm" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3296" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,11 +334,39 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/components/UserSettingsForm.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368069">
+          <caret line="16003" column="0" lean-forward="true" selection-start-line="16003" selection-start-column="0" selection-end-line="16003" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/assets/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
-          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -282,21 +380,24 @@
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/assets/js/components/UserSettingsForm.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/assets/sass/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="16003" lean-forward="true" selection-start-line="16003" selection-end-line="16003" />
+        <state relative-caret-position="1087">
+          <caret line="16003" column="0" lean-forward="false" selection-start-line="16003" selection-start-column="0" selection-end-line="16003" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/components/UserSettingsForm.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="40" column="65" lean-forward="false" selection-start-line="40" selection-start-column="65" selection-end-line="40" selection-end-column="65" />
+          <folding />
         </state>
       </provider>
     </entry>
